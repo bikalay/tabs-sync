@@ -1,0 +1,19 @@
+{
+  "name": "tabs-sync",
+  "version": "0.0.1",
+  "description": "Browser tabs synchronisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikalay/tabs-sync.git"
+  },
+  "author": "Alexandr Vovchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bikalay/tabs-sync/issues"
+  },
+  "homepage": "https://github.com/bikalay/tabs-sync#readme"
+}
